@@ -2,7 +2,9 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1> this is version 1 </h1>
+<h2> this is version 2 </h2>
+
 <p>My first paragraph.</p>
 
 </body>
